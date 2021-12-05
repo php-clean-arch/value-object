@@ -1,6 +1,6 @@
 {
     "name": "php-clean-arch/value-object",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "type": "library",
     "description": "Provides the behaviour to expect from a value-object",
     "authors": [
