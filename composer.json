@@ -1,0 +1,18 @@
+{
+    "name": "php-clean-arch/value-object",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Adrien Cuisse",
+            "email": "adrien.cuisse@epitech.eu"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MyCleanArchBootstrap\\Domain\\ValueObjects\\": "Domain/ValueObjects/"
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
