@@ -1,6 +1,6 @@
 <?php
 
-namespace MyCleanArchBootstrap\Domain\ValueObjects;
+namespace PhpCleanArch\ValueObjects;
 
 /**
  * Some value with custom validation logic, to compose our entities with
